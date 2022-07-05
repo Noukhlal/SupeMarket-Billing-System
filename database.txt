@@ -1,0 +1,7 @@
+ 2 Bread 40 0
+ 3 butter 60 4
+ 4 egg 6 0
+ 1 Juice 120 10
+ 5 mango 100 8
+ 6 milk 51 2
+ 7 water 15 0
